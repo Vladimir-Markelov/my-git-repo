@@ -1,3 +1,3 @@
 # Git and GitHub test
 
-Me learning git and github.
+My learning git and github.
